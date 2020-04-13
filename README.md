@@ -1,6 +1,7 @@
 # Music
 #前言，最近项目需要，写了一个基础的音频播放功能。包括简单的拖动SeekBar快进，暂停播放等
 如图所示：
+![AA.gif](https://upload-images.jianshu.io/upload_images/21550626-7d4b86c8d6ad6be4.gif?imageMogr2/auto-orient/strip)
 
 使用方法：
 
